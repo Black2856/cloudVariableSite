@@ -1,0 +1,2 @@
+# cloudVariableSite
+scratchのcloudDataをサイトで表示する
