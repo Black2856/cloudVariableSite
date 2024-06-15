@@ -7,7 +7,6 @@ body {
     height: 100vh;
     background-color: #f0f0f0;
     padding-top: 20px;
-    padding-bottom: 20px;
 }
 
 .container {
@@ -44,7 +43,6 @@ body {
     border: 1px solid #000;
     background-color: #fff;
     box-sizing: border-box;
-    padding: 10px;
 }
 
 table {
